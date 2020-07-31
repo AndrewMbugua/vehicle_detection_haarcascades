@@ -9,11 +9,17 @@ For Linux users
 * * Check out the latest project source code and compile it:
 
 ~/git clone https://github.com/andrewssobral/vehicle_detection_haarcascades.git
+
 ~/cd vehicle_detection_haarcascades
+
 ~/vehicle_detection_haarcascades/ chmod +x run_vehicle_detection_video1.sh
+
 ~/vehicle_detection_haarcascades/ chmod +x run_vehicle_detection_video2.sh
+
 ~/vehicle_detection_haarcascades/ cd build
+
 ~/vehicle_detection_haarcascades/build/ cmake ..
+
 ~/vehicle_detection_haarcascades/build/ make
 
 * Run demos:
@@ -24,3 +30,4 @@ For Linux users
 
 ~/vehicle_detection_haarcascades# python3 vehicle_detection.py
 
+Credit goes to Andrew Sobral
