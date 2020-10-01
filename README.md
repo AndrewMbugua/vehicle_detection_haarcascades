@@ -1,4 +1,4 @@
-Prequisites OpenCV,you can get it from the github repository and build it via this link ()
+Prequisites OpenCV,you can get it from the github repository and build it via this link (https://github.com/opencv/opencv)
 
 Cascades are car.xml gotten from a pre-trained haar cascade classifier by Andrew Sombral
 
